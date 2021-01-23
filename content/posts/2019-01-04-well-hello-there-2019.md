@@ -5,12 +5,10 @@ draft: false
 title: Well, Hello There, 2019
 type: post
 url: /2019/01/04/well-hello-there-2019/
+thumbnail: /img//roven-images-601197-unsplash-1024x683.jpg
 categories:
 - Life
 ---
-
-
-![](https://www.2dsteve.com/wp-content/uploads/2019/01/roven-images-601197-unsplash-1024x683.jpg)
 
 
 

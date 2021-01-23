@@ -10,7 +10,7 @@ url: /2020/12/14/saturday-hackfest/
 
 
 
-It’s probably obvious to most people who follow any of the [content I make](HTTPS://www.legion of dorks.com), that I’ve been spending most weekends at home doing projects and otherwise NOT GOING FLIPPIN’ ANYWHERE for most of 2020. I’m not bitter about it, I swear. Anyway, this last weekend I went on a really inconsequential journey. One that most people might not give a flip about. I’m about to get super nerdy, so if you don’t care, just turn back while you can. Otherwise, strap yourself in and grab a cup of Mountain Dew.
+It’s probably obvious to most people who follow any of the [content I make](https://www.legionofdorks.com), that I’ve been spending most weekends at home doing projects and otherwise NOT GOING FLIPPIN’ ANYWHERE for most of 2020. I’m not bitter about it, I swear. Anyway, this last weekend I went on a really inconsequential journey. One that most people might not give a flip about. I’m about to get super nerdy, so if you don’t care, just turn back while you can. Otherwise, strap yourself in and grab a cup of Mountain Dew.
 
 
 

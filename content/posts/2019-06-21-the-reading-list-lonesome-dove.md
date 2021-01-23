@@ -4,12 +4,9 @@ date: 2019-06-21 19:57:45+00:00
 draft: false
 title: 'The Reading List: Lonesome Dove'
 type: post
+thumbnail: /img/lonesomedove.jpg
 url: /2019/06/21/the-reading-list-lonesome-dove/
 ---
-
-
-![](https://www.2dsteve.com/wp-content/uploads/2019/06/lonesomedove.jpg)
-
 
 
 

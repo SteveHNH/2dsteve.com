@@ -5,15 +5,11 @@ draft: false
 title: Enema of the State - 20th Anniversary
 type: post
 url: /2019/06/04/enema-of-the-state-20th-anniversary/
+thumbnail: /img/enema-1559316662-640x360.jpg
 categories:
 - Life
 - Music
 ---
-
-
-![](https://www.2dsteve.com/wp-content/uploads/2019/06/enema-1559316662-640x360.jpg)
-Enema of the State - blink-182 - 1999
-
 
 
 
@@ -26,7 +22,7 @@ Back in 1999, I was a fourteen year old kid still listening mostly to stuff his 
 
 
 
-![](https://www.2dsteve.com/wp-content/uploads/2019/06/EndFest2.jpg)
+![](/img//EndFest2.jpg)
 
 
 
@@ -101,7 +97,7 @@ Enema of the State is still one of my favorite albums of all time. The differenc
 
 
 
-![](https://www.2dsteve.com/wp-content/uploads/2019/06/tomdelongestrat.jpg)
+![](/img//tomdelongestrat.jpg)
 
 
 

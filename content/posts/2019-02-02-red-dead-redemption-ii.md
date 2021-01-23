@@ -36,7 +36,7 @@ RDR 2 starts a few years prior to the original game, so it works as a prequel to
 
 
 
-![](https://www.2dsteve.com/wp-content/uploads/2019/02/arthursadie-1024x576.jpg)
+![](/img/arthursadie-1024x576.jpg)
 
 
 
@@ -57,7 +57,7 @@ I've played it the entire way through as a good guy. I helped people when they a
 
 
 
-![](https://www.2dsteve.com/wp-content/uploads/2019/02/robbery-1024x576.jpg)
+![](/img/robbery-1024x576.jpg)
 
 
 
@@ -86,7 +86,7 @@ SPOILER ALERT
 
 
 
-![](https://www.2dsteve.com/wp-content/uploads/2019/02/swamparthur-1024x576.jpg)
+![](/img/swamparthur-1024x576.jpg)
 
 
 

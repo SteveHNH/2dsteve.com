@@ -5,12 +5,12 @@ draft: false
 title: Book Juggling
 type: post
 url: /2020/02/12/book-juggling/
+thumbnail: /img/janko-ferlic-sfL_QOnmy00-unsplash-1024x947.jpg
 categories:
 - Books
 ---
 
 
-![](https://www.2dsteve.com/wp-content/uploads/2020/02/janko-ferlic-sfL_QOnmy00-unsplash-1024x947.jpg)
 
 
 
@@ -63,7 +63,10 @@ So, I say all that to say, you have a few reading list items to look forward to 
 
 
 
-  * [Street Gang: The Complete History of Sesame Street - Michael Davis](https://amzn.to/2w6yTgl)  * [True Grit - Charles Portis](https://amzn.to/2UKlTax)  * [Mere Christianity - C.S. Lewis](https://amzn.to/2tRsPaZ)  * [Ordering Your Private World - Gordon MacDonald](https://amzn.to/2UKzWwR)
+  * [Street Gang: The Complete History of Sesame Street - Michael Davis](https://amzn.to/2w6yTgl)  
+  * [True Grit - Charles Portis](https://amzn.to/2UKlTax)  
+  * [Mere Christianity - C.S. Lewis](https://amzn.to/2tRsPaZ)  
+  * [Ordering Your Private World - Gordon MacDonald](https://amzn.to/2UKzWwR)
 
 
 

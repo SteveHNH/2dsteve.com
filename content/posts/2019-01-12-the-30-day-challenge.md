@@ -5,13 +5,10 @@ draft: false
 title: The 30 Day Challenge
 type: post
 url: /2019/01/11/the-30-day-challenge/
+thumbnail: /img//ryan-hafey-102451-unsplash-1024x683.jpg
 categories:
 - Life
 ---
-
-
-![](https://www.2dsteve.com/wp-content/uploads/2019/01/ryan-hafey-102451-unsplash-1024x683.jpg)
-
 
 
 

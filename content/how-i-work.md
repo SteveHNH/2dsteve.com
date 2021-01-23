@@ -50,32 +50,32 @@ When I sit down, these apps are always available:
 
 
 
- 	  * [Firefox](http://www.getfirefox.com)
- 	  * [Slack](http://www.slack.com)
- 	  * [Discord](http://www.discordapp.com)
- 	  * [Spotify](http://www.spotify.com)
- 	  * [Steam](https://www.steampowered.com)
- 	  * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+* [Firefox](http://www.getfirefox.com)
+* [Slack](http://www.slack.com)
+* [Discord](http://www.discordapp.com)
+* [Spotify](http://www.spotify.com)
+* [Steam](https://www.steampowered.com)
+* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 
- 	    * plugins: pj, git, python, virtualenv, dnf
-
-
- 	  * [Visual Studio Code](https://code.visualstudio.com/)
-
- 	    * Horizon color theme
- 	    * ToDo+ extension
- 	    * SSH Remote extension
+* plugins: pj, git, python, virtualenv, dnf
 
 
- 	  * [VirtualBox](https://www.virtualbox.org/)
+* [Visual Studio Code](https://code.visualstudio.com/)
+
+* Horizon color theme
+* ToDo+ extension
+* SSH Remote extension
+
+
+* [VirtualBox](https://www.virtualbox.org/)
 
 I use these for streaming and podcasting:
 
- 	  * OBS Studio with StreamElements OBS Live
- 	  * [Reaper](https://www.reaper.fm/)
- 	  * Google Hangouts
- 	  * Skype
- 	  * [Voicemeeter Banana](https://www.vb-audio.com/Voicemeeter/banana.htm)
+* OBS Studio with StreamElements OBS Live
+* [Reaper](https://www.reaper.fm/)
+* Google Hangouts
+* Skype
+* [Voicemeeter Banana](https://www.vb-audio.com/Voicemeeter/banana.htm)
 
 
 
