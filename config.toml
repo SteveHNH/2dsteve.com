@@ -1,0 +1,60 @@
+baseURL = "https://www.2dsteve.com/"
+languageCode = "en-us"
+title = "2D Steve"
+theme = "anatole"
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
+
+[params]
+author = "Stephen Adams"
+description = "It's About The Journey"
+profilePicture = "/img/profile_pic.jpg"
+displayMode = "dark"
+mainSections = ["post"]
+copyright = "2004-2021"
+
+# Syntax highlighting
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/posts/"
+
+  [[menu.main]]
+  name = "How I Work"
+  weight = 300
+  identifier = "how-i-work"
+  url = "/how-i-work/"
+
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+name = "Twitter"
+url = "https://www.twitter.com/stevehnh"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+name = "Github"
+url = "https://www.github.com/stevehnh"
+
+[[params.socialIcons]]
+icon = "fab fa-instagram"
+name = "Instagram"
+url = "https://www.instagram.com/stevehnh"
+
+[[params.socialIcons]]
+icon = "fab fa-twitch"
+name = "twitch"
+url = "https://www.twitch.tv/2dorkstv"
