@@ -15,7 +15,7 @@ It was a whirlwind of a day, but I've officially moved my blog over to a static 
 
 Man, this is **flexible**.
 
-I have my good buddy, [Chris](https://www.chriscollins.is), to thank for giving me the idea. He was messing around with a platform called Hugo, and I'm a nerd so I decided to give it a go. It's actually super nice and easy to work with. I've used a few static generated site platforms in the past, but they all left something to be desired with the "ease of use" category. This one checks a lot of boxes for me.
+I have my good buddy, [Chris](https://chris.collins.is), to thank for giving me the idea. He was messing around with a platform called Hugo, and I'm a nerd so I decided to give it a go. It's actually super nice and easy to work with. I've used a few static generated site platforms in the past, but they all left something to be desired with the "ease of use" category. This one checks a lot of boxes for me.
 
 I really like that I can post everything using [Markdown](https://www.markdownguide.org/). It's a simple syntax to learn and allows you to write quickly without worrying about much. I write a ton of docs in MD at work, so this is just a natural extension.
 
