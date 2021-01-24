@@ -14,8 +14,9 @@ front_matter = ["---\n",
 "draft: false\n",
 "title: NEW-POST\n",
 "type: post\n",
-"url: /" + url + "/NEW-POST/\n"
-"#categories:\n"
+"url: /" + url + "/NEW-POST/\n",
+"#thumbnail: /img/some_featured_image.jpg\n",
+"#categories:\n",
 "#LIST: books,code,comics,everything,fatherhood,gadgets,games,internet,life,movies,music,nerd,podcasting,politics,random,science,tech,tv,video,work,writing\n",
 "---\n"]
 
