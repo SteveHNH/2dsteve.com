@@ -9,6 +9,8 @@ categories:
   - Nerd
 ---
 
+![](/img/boxes.jpg)
+
 It was a whirlwind of a day, but I've officially moved my blog over to a static website. No more databases, no more wordpress, no more shared server. The cool thing about this is that I don't really have to worry over database stuff or if I have a backup. The whole website lives in a Git repository, which means it's just ... out there. There's no real need for me to do anything special to keep it. If I get really paranoid, I can just pull the thing on occasion and drop a backup on the NAS in my house, or on a server, or whatever. 
 
 Man, this is **flexible**.
