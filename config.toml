@@ -14,6 +14,7 @@ mainSections = ["post"]
 title = "Stephen Adams"
 copyright = "2004-2021"
 darkMode = true
+disqusShortname = "2dsteve"
 
 # Syntax highlighting
 pygmentsUseClasses = true
