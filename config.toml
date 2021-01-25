@@ -6,7 +6,7 @@ summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
 disqusShortname = "2dsteve"
-googleAnalytics = "G-2JP0WFYX7Z"
+googleAnalytics = "UA-188083095-1"
 
 [params]
 author = "Stephen Adams"
@@ -16,7 +16,6 @@ mainSections = ["post"]
 title = "Stephen Adams"
 copyright = "2004-2021"
 darkMode = true
-disqusShortname = "2dsteve"
 
 # Syntax highlighting
 pygmentsUseClasses = true
