@@ -4,7 +4,7 @@ date: 2021-01-27 15:12:19+00:00
 draft: false
 title: Actors on Actors
 type: post
-url: /2021/01/27/NEW-POST/
+url: /2021/01/27/actors-on-actors/
 #thumbnail: /img/some_featured_image.jpg
 #categories:
 #LIST: books,code,comics,everything,fatherhood,gadgets,games,internet,life,movies,music,nerd,podcasting,politics,random,science,tech,tv,video,work,writing
