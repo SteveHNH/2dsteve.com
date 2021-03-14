@@ -5,7 +5,7 @@ draft: false
 title: Ergonomics
 type: post
 url: /2021/03/12/ergonomics/
-thumbnail: /img/moonlaner.png
+thumbnail: /img/moonlander.png
 #categories:
 #LIST: books,code,comics,everything,fatherhood,gadgets,games,internet,life,movies,music,nerd,podcasting,politics,random,science,tech,tv,video,work,writing
 categories:
