@@ -11,6 +11,7 @@ url: /2021/09/14/freewriting/
 categories:
 - writing
 ---
+
 When I was in college, I took a pretty fantastic English course. Most of my time spent in high school English revolved around diagramming sentences and recognizing parts of speech. There was quite a bit of writing, but very little of it actually worked to teach me to *think* like a writer. That was something I had to work out on my own. This college course really hammered into me how to write and think like someone who wants to write. Not only that, it gave me a really important skill that I didn't even know I needed:
 
 Freewriting
