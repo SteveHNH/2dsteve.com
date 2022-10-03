@@ -1,6 +1,0 @@
-[submodule "themes/anatole"]
-	path = themes/anatole
-	url = git@github.com:stevehnh/anatole
-[submodule "public"]
-	path = public
-	url = git@github.com:stevehnh/stevehnh.github.io
