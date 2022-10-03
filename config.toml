@@ -13,7 +13,7 @@ description = "It's About The Journey"
 profilePicture = "/img/profile_pic.jpg"
 mainSections = ["post"]
 title = "Stephen Adams"
-copyright = "2004-{{ YEAR }}"
+copyright = "2004-2022"
 darkMode = true
 
 # Syntax highlighting
