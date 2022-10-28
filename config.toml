@@ -6,6 +6,7 @@ summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
 googleAnalytics = "UA-188083095-1"
+disqusShortname = "2dsteve"
 
 [params]
 author = "Stephen Adams"
