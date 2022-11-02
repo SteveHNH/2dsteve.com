@@ -63,6 +63,6 @@ name = "Twitch"
 url = "https://www.twitch.tv/2dorkstv"
 
 [[params.socialIcons]]
-icon = "fab fa-comment"
+icon = "fas fa-user-group"
 name = "CounterSocial"
 url = "https://counter.social/@SteveHNH"
