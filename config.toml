@@ -59,5 +59,10 @@ url = "https://www.instagram.com/stevehnh"
 
 [[params.socialIcons]]
 icon = "fab fa-twitch"
-name = "twitch"
+name = "Twitch"
 url = "https://www.twitch.tv/2dorkstv"
+
+[[params.socialIcons]]
+icon = "fab fa-comment"
+name = "CounterSocial"
+url = "https://counter.social/@SteveHNH"
