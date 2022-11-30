@@ -1,7 +1,7 @@
 baseURL="https://www.2dsteve.com"
 languageCode = "en-us"
 title = "Stephen Adams"
-theme = "huge-ficurinia"
+theme = "hugo-ficurinia"
 paginate = 5
 summarylength = 70 
 #googleAnalytics = "UA-188083095-1"
