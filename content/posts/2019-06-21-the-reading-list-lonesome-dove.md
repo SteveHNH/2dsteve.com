@@ -4,7 +4,7 @@ date: 2019-06-21 19:57:45+00:00
 draft: false
 title: 'The Reading List: Lonesome Dove'
 type: post
-thumbnail: /img/lonesomedove.jpg
+image: /img/lonesomedove.jpg
 url: /2019/06/21/the-reading-list-lonesome-dove/
 ---
 

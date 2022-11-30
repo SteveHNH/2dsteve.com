@@ -5,7 +5,7 @@ draft: false
 title: OBS Framerates
 type: post
 url: /2021/09/17/OBS-framerates/
-thumbnail: /img/streaming-pc.jpg
+image: /img/streaming-pc.jpg
 #categories:
 #LIST: books,code,comics,everything,fatherhood,gadgets,games,internet,life,movies,music,nerd,podcasting,politics,random,science,tech,tv,video,work,writing
 categories:

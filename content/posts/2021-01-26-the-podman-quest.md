@@ -5,7 +5,7 @@ draft: false
 title: The Podman Quest
 type: post
 url: /2021/01/26/the-podman-quest/
-#thumbnail: /img/some_featured_image.jpg
+#image: /img/some_featured_image.jpg
 #categories:
 #LIST: books,code,comics,everything,fatherhood,gadgets,games,internet,life,movies,music,nerd,podcasting,politics,random,science,tech,tv,video,work,writing
 categories:

@@ -5,7 +5,7 @@ draft: false
 title: Book Juggling
 type: post
 url: /2020/02/12/book-juggling/
-thumbnail: /img/janko-ferlic-sfL_QOnmy00-unsplash-1024x947.jpg
+image: /img/janko-ferlic-sfL_QOnmy00-unsplash-1024x947.jpg
 categories:
 - Books
 ---

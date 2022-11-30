@@ -5,7 +5,7 @@ draft: false
 title: Enema of the State - 20th Anniversary
 type: post
 url: /2019/06/04/enema-of-the-state-20th-anniversary/
-thumbnail: /img/enema-1559316662-640x360.jpg
+image: /img/enema-1559316662-640x360.jpg
 categories:
 - Life
 - Music

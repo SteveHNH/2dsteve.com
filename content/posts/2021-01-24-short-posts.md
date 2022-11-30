@@ -5,7 +5,7 @@ draft: false
 title: Short posts
 type: post
 url: /2021/01/24/short-posts/
-#thumbnail: /img/some_featured_image.jpg
+#image: /img/some_featured_image.jpg
 #categories:
 #LIST: books,code,comics,everything,fatherhood,gadgets,games,internet,life,movies,music,Nerd,podcasting,politics,random,science,tech,tv,video,work,writing
 categories:

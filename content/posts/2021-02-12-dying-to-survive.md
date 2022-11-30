@@ -5,7 +5,7 @@ draft: false
 title: Dying to Survive
 type: post
 url: /2021/02/12/dying-to-survive/
-thumbnail: /img/window.jpg
+image: /img/window.jpg
 #categories:
 #LIST: books,code,comics,everything,fatherhood,gadgets,games,internet,life,movies,music,nerd,podcasting,politics,random,science,tech,tv,video,work,writing
 categories:
