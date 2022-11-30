@@ -1,40 +1,41 @@
 baseURL="https://www.2dsteve.com"
 languageCode = "en-us"
-title = "2D Steve"
-theme = "anatole"
-summarylength = 10
-enableEmoji = true
-enableRobotsTXT = true
-googleAnalytics = "UA-188083095-1"
-disqusShortname = "2dsteve"
+title = "Stephen Adams"
+theme = "huge-ficurinia"
+paginate = 5
+summarylength = 70 
+#googleAnalytics = "UA-188083095-1"
+#disqusShortname = "2dsteve"
 
 [params]
-author = "Stephen Adams"
-description = "It's About The Journey"
-profilePicture = "/img/profile_pic.jpg"
-mainSections = ["post"]
-title = "Stephen Adams"
-copyright = "2004-2022"
-darkMode = true
+  author = "Stephen Adams"
+  description = "It's About The Journey"
+  copyright = "2004-2022"
+  
+  posts = "posts"
+  showPostsLink = true
+  imageInArticlePreview = true
+  enableShareOnFediverse = true
+  
+  # cactus comments
+  cactusCommentsSiteName = "2dsteve.com"
+  cactusCommentsServerName = "cactus.chat"
+  cactusCommentsHomeserver = "https://matrix.cactus.chat:8448"
 
-# Syntax highlighting
-pygmentsUseClasses = true
-pygmentsCodeFences = true
-pygmentsCodefencesGuessSyntax = true
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    lineNos = false
+    lineNumbersInTable =false
+    tabWidth = 4
+    style = "dracula"
+  [markup.tableOfContents]
+    endLevel = 5
+    ordered = false
+    startLevel = 1
 
 [menu]
-
-  [[menu.main]]
-  name = "Home"
-  identifier = "home"
-  weight = 100
-  url = "/"
-
-  [[menu.main]]
-  name = "Posts"
-  weight = 200
-  identifier = "posts"
-  url = "/posts/"
 
   [[menu.main]]
   name = "How I Work"
@@ -42,27 +43,27 @@ pygmentsCodefencesGuessSyntax = true
   identifier = "how-i-work"
   url = "/how-i-work/"
 
-[[params.socialIcons]]
-icon = "fab fa-twitter"
-name = "Twitter"
-url = "https://www.twitter.com/stevehnh"
+  [[menu.icons]]
+  identifier = "github"
+  name = "Github"
+  url = "https://www.github.com/SteveHNH"
+  weight = 20
 
-[[params.socialIcons]]
-icon = "fab fa-github"
-name = "Github"
-url = "https://www.github.com/stevehnh"
+  [[menu.icons]]
+  identifier = "mastodon"
+  name = "Mastadon"
+  url = "https://mastodon.social/@stevehnh"
+  weight = 10
 
-[[params.socialIcons]]
-icon = "fab fa-instagram"
-name = "Instagram"
-url = "https://www.instagram.com/stevehnh"
+  [[menu.icons]]
+  identifier = "discord"
+  name = "Discord"
+  url = "https://2dorks.net/discord"
+  weight = 30
 
-[[params.socialIcons]]
-icon = "fab fa-twitch"
-name = "Twitch"
-url = "https://www.twitch.tv/2dorkstv"
+  [[menu.icons]]
+  identifier = "youtube"
+  name = "YouTube"
+  url = "https://2dorks.net/youtube"
+  weight = 40
 
-[[params.socialIcons]]
-icon = "fas fa-star"
-name = "CounterSocial"
-url = "https://counter.social/@SteveHNH"
