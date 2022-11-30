@@ -6,9 +6,9 @@ title: Ruminations
 type: post
 url: /2021/02/26/ruminations/
 #image: /img/some_featured_image.jpg
-#categories:
+#tags:
 #LIST: books,code,comics,everything,fatherhood,gadgets,games,internet,life,movies,music,nerd,podcasting,politics,random,science,tech,tv,video,work,writing
-categories:
+tags:
   - life
 ---
 

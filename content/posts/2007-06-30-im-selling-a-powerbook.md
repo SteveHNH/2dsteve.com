@@ -5,7 +5,7 @@ draft: false
 title: I'm selling a Powerbook!
 type: post
 url: /2007/06/29/im-selling-a-powerbook/
-categories:
+tags:
 - Life
 - Tech
 ---

@@ -5,7 +5,7 @@ draft: false
 title: Manvotionals
 type: post
 url: /2015/01/24/manvotionals/
-categories:
+tags:
 - Books
 - Life
 ---

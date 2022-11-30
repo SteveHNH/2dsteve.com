@@ -5,7 +5,7 @@ draft: false
 title: Quarter of a Century
 type: post
 url: /2010/04/29/quarter-of-a-century/
-categories:
+tags:
 - Life
 ---
 

@@ -5,7 +5,7 @@ draft: false
 title: Hats, Macs, and More!
 type: post
 url: /2007/06/25/hats-macs-and-more/
-categories:
+tags:
 - Life
 - Tech
 ---

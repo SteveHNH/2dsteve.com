@@ -4,7 +4,7 @@ date: 2013-02-11 02:09:04+00:00
 title: Church Folk
 type: post
 url: /2013/02/10/church-folk/
-categories:
+tags:
 - Life
 ---
 

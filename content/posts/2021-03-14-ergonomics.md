@@ -6,9 +6,9 @@ title: Ergonomics
 type: post
 url: /2021/03/12/ergonomics/
 image: /img/moonlander.png
-#categories:
+#tags:
 #LIST: books,code,comics,everything,fatherhood,gadgets,games,internet,life,movies,music,nerd,podcasting,politics,random,science,tech,tv,video,work,writing
-categories:
+tags:
   - nerd
 ---
 

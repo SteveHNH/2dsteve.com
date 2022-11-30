@@ -5,7 +5,7 @@ draft: false
 title: Parties Galore!
 type: post
 url: /2007/04/30/parties-galore/
-categories:
+tags:
 - Life
 ---
 

@@ -5,7 +5,7 @@ draft: false
 title: Infinity War
 type: post
 url: /2018/05/25/infinity-war/
-categories:
+tags:
 - Movies
 ---
 

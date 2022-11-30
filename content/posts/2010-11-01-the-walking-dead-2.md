@@ -5,7 +5,7 @@ draft: false
 title: The Walking Dead
 type: post
 url: /2010/11/01/the-walking-dead-2/
-categories:
+tags:
 - Comics
 - TV
 ---

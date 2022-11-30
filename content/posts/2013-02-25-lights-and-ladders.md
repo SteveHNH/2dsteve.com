@@ -5,7 +5,7 @@ draft: false
 title: Lights and Ladders
 type: post
 url: /2013/02/24/lights-and-ladders/
-categories:
+tags:
 - Life
 ---
 

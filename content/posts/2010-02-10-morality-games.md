@@ -5,7 +5,7 @@ draft: false
 title: Morality Games
 type: post
 url: /2010/02/09/morality-games/
-categories:
+tags:
 - Games
 tags:
 - gaming

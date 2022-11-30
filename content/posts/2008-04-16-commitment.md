@@ -5,7 +5,7 @@ draft: false
 title: Commitment
 type: post
 url: /2008/04/15/commitment/
-categories:
+tags:
 - Life
 - Movies
 tags:

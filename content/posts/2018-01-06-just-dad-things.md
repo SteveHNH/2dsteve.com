@@ -5,7 +5,7 @@ draft: false
 title: Just Dad Things
 type: post
 url: /2018/01/06/just-dad-things/
-categories:
+tags:
 - Life
 ---
 

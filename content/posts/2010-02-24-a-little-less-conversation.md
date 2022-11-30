@@ -5,7 +5,7 @@ draft: false
 title: A Little Less Conversation
 type: post
 url: /2010/02/23/a-little-less-conversation/
-categories:
+tags:
 - TV
 tags:
 - jeopardy

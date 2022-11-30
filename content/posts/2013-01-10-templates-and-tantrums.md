@@ -5,7 +5,7 @@ draft: false
 title: Templates and Tantrums
 type: post
 url: /2013/01/09/templates-and-tantrums/
-categories:
+tags:
 - Life
 ---
 

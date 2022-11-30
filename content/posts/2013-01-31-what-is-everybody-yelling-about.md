@@ -5,7 +5,7 @@ draft: false
 title: What Is Everybody Yelling About?!
 type: post
 url: /2013/01/30/what-is-everybody-yelling-about/
-categories:
+tags:
 - Life
 ---
 

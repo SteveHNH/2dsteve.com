@@ -5,7 +5,7 @@ draft: false
 title: Stardew Valley
 type: post
 url: /2018/01/06/stardew-valley/
-categories:
+tags:
 - Games
 ---
 

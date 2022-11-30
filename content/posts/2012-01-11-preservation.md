@@ -5,7 +5,7 @@ draft: false
 title: Preservation
 type: post
 url: /2012/01/10/preservation/
-categories:
+tags:
 - Life
 ---
 

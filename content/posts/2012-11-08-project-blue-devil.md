@@ -5,7 +5,7 @@ draft: false
 title: Project Blue Devil
 type: post
 url: /2012/11/07/project-blue-devil/
-categories:
+tags:
 - Life
 ---
 

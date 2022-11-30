@@ -5,7 +5,7 @@ draft: false
 title: Horseshoes and Hand Grenades Banner!
 type: post
 url: /2007/12/02/horseshoes-and-hand-grenades-banner/
-categories:
+tags:
 - podcasting
 ---
 

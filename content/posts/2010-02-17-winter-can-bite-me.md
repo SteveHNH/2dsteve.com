@@ -5,7 +5,7 @@ draft: false
 title: Winter Can Bite Me
 type: post
 url: /2010/02/16/winter-can-bite-me/
-categories:
+tags:
 - Life
 tags:
 - health

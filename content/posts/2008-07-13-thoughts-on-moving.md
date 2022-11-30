@@ -5,7 +5,7 @@ draft: false
 title: Thoughts on Moving
 type: post
 url: /2008/07/13/thoughts-on-moving/
-categories:
+tags:
 - Life
 tags:
 - moving

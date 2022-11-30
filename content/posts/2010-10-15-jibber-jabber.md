@@ -5,7 +5,7 @@ draft: false
 title: Jibber Jabber
 type: post
 url: /2010/10/14/jibber-jabber/
-categories:
+tags:
 - Life
 - podcasting
 ---

@@ -6,7 +6,7 @@ title: The 30 Day Challenge
 type: post
 url: /2019/01/11/the-30-day-challenge/
 image: /img//ryan-hafey-102451-unsplash-1024x683.jpg
-categories:
+tags:
 - Life
 ---
 

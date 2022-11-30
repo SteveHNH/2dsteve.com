@@ -5,7 +5,7 @@ draft: false
 title: 'The Reading List: Muscular Christianity'
 type: post
 url: /2018/07/02/the-reading-list-muscular-christianity/
-categories:
+tags:
 - Books
 tags:
 - reading list

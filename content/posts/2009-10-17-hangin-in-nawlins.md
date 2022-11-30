@@ -5,7 +5,7 @@ draft: false
 title: Hangin' in Nawlins
 type: post
 url: /2009/10/17/hangin-in-nawlins/
-categories:
+tags:
 - Life
 tags:
 - travel

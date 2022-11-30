@@ -5,7 +5,7 @@ draft: false
 title: The White Rabbit
 type: post
 url: /2013/01/17/the-white-rabbit/
-categories:
+tags:
 - Life
 ---
 

@@ -5,7 +5,7 @@ draft: false
 title: Building Community
 type: post
 url: /2018/01/10/building-community/
-categories:
+tags:
 - Life
 - podcasting
 ---

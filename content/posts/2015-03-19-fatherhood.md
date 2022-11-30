@@ -5,7 +5,7 @@ draft: false
 title: Fatherhood
 type: post
 url: /2015/03/18/fatherhood/
-categories:
+tags:
 - Fatherhood
 - Life
 ---

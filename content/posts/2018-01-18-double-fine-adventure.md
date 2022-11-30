@@ -5,7 +5,7 @@ draft: false
 title: Double Fine Adventure
 type: post
 url: /2018/01/18/double-fine-adventure/
-categories:
+tags:
 - Games
 - Movies
 ---

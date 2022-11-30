@@ -5,7 +5,7 @@ draft: false
 title: Reading With My Ears
 type: post
 url: /2010/02/12/reading-with-my-ears/
-categories:
+tags:
 - Books
 - Internet
 tags:

@@ -5,7 +5,7 @@ draft: false
 title: Save the Date!
 type: post
 url: /2010/02/05/save-the-date/
-categories:
+tags:
 - Life
 tags:
 - wedding

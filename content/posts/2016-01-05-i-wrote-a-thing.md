@@ -5,7 +5,7 @@ draft: false
 title: I Wrote a Thing!
 type: post
 url: /2016/01/05/i-wrote-a-thing/
-categories:
+tags:
 - Writing
 ---
 

@@ -5,7 +5,7 @@ draft: false
 title: Raspberry Pi
 type: post
 url: /2013/01/02/raspberry-pi/
-categories:
+tags:
 - Gadgets
 - Tech
 ---

@@ -5,7 +5,7 @@ draft: false
 title: Friday, Friday, Gonna Get Down on Friday
 type: post
 url: /2013/01/04/friday-friday-gonna-get-down-on-friday/
-categories:
+tags:
 - Life
 - Random
 - Tech

@@ -5,7 +5,7 @@ draft: false
 title: Two of My Favorite People
 type: post
 url: /2013/01/20/two-of-my-favorite-people/
-categories:
+tags:
 - Comics
 - Life
 ---

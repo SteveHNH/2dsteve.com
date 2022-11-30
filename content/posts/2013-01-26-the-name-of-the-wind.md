@@ -5,7 +5,7 @@ draft: false
 title: The Name of the Wind
 type: post
 url: /2013/01/25/the-name-of-the-wind/
-categories:
+tags:
 - Books
 - Life
 ---

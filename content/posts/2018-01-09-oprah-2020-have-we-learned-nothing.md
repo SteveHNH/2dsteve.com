@@ -5,7 +5,7 @@ draft: false
 title: Oprah 2020 - Have We Learned Nothing
 type: post
 url: /2018/01/09/oprah-2020-have-we-learned-nothing/
-categories:
+tags:
 - Politics
 ---
 

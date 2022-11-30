@@ -5,7 +5,7 @@ draft: false
 title: The Shape of Water
 type: post
 url: /2018/01/15/the-shape-of-water/
-categories:
+tags:
 - Movies
 ---
 

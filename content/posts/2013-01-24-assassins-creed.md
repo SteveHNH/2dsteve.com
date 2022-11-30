@@ -5,7 +5,7 @@ draft: false
 title: Assassin's Creed!
 type: post
 url: /2013/01/23/assassins-creed/
-categories:
+tags:
 - Games
 ---
 

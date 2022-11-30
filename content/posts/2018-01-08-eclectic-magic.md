@@ -5,7 +5,7 @@ draft: false
 title: Eclectic Magic
 type: post
 url: /2018/01/08/eclectic-magic/
-categories:
+tags:
 - Writing
 ---
 

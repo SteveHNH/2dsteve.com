@@ -5,7 +5,7 @@ draft: false
 title: The Last Day of Work
 type: post
 url: /2008/08/13/the-last-day-of-work/
-categories:
+tags:
 - Life
 tags:
 - changes

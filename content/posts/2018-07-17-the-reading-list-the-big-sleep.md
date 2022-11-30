@@ -5,7 +5,7 @@ draft: false
 title: 'The Reading List: The Big Sleep'
 type: post
 url: /2018/07/17/the-reading-list-the-big-sleep/
-categories:
+tags:
 - Books
 tags:
 - reading list

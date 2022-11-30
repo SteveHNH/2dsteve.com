@@ -5,7 +5,7 @@ draft: false
 title: Possibilities
 type: post
 url: /2008/01/16/possibilities/
-categories:
+tags:
 - Life
 ---
 

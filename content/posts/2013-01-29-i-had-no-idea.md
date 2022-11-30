@@ -5,7 +5,7 @@ draft: false
 title: I Had No Idea...
 type: post
 url: /2013/01/28/i-had-no-idea/
-categories:
+tags:
 - Life
 ---
 

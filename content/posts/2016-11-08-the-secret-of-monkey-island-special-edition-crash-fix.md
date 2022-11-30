@@ -5,7 +5,7 @@ draft: false
 title: 'The Secret of Monkey Island: Special Edition Crash FIX'
 type: post
 url: /2016/11/08/the-secret-of-monkey-island-special-edition-crash-fix/
-categories:
+tags:
 - Tech
 ---
 

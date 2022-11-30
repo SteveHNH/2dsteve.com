@@ -5,7 +5,7 @@ draft: false
 title: History is Made
 type: post
 url: /2009/01/20/history-is-made/
-categories:
+tags:
 - Life
 tags:
 - Obama

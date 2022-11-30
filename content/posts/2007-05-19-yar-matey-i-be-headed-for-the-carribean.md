@@ -5,7 +5,7 @@ draft: false
 title: Yar matey, I be headed for the carribean!
 type: post
 url: /2007/05/19/yar-matey-i-be-headed-for-the-carribean/
-categories:
+tags:
 - Life
 ---
 

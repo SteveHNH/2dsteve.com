@@ -5,7 +5,7 @@ draft: false
 title: Reconstruction
 type: post
 url: /2009/01/26/reconstruction/
-categories:
+tags:
 - Internet
 - podcasting
 tags:

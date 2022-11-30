@@ -5,7 +5,7 @@ draft: false
 title: National Novel Writing Fail
 type: post
 url: /2010/11/22/national-novel-writing-fail/
-categories:
+tags:
 - Life
 ---
 

@@ -5,7 +5,7 @@ draft: false
 title: Potty Mouth
 type: post
 url: /2018/07/11/potty-mouth/
-categories:
+tags:
 - Internet
 - Life
 ---

@@ -5,7 +5,7 @@ draft: false
 title: The Hero Returns
 type: post
 url: /2009/02/09/the-hero-returns/
-categories:
+tags:
 - Music
 tags:
 - blink 182

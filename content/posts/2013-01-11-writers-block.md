@@ -5,7 +5,7 @@ draft: false
 title: Writer's Block
 type: post
 url: /2013/01/10/writers-block/
-categories:
+tags:
 - Life
 ---
 

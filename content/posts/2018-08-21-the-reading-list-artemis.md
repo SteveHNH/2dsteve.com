@@ -5,7 +5,7 @@ draft: false
 title: 'The Reading List: Artemis'
 type: post
 url: /2018/08/21/the-reading-list-artemis/
-categories:
+tags:
 - Books
 tags:
 - reading list

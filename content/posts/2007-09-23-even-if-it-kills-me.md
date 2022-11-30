@@ -5,7 +5,7 @@ draft: false
 title: Even If It Kills Me
 type: post
 url: /2007/09/22/even-if-it-kills-me/
-categories:
+tags:
 - Life
 ---
 

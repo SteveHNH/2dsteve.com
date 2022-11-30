@@ -6,7 +6,7 @@ title: We Done Moved!
 type: post
 url: /2021/01/23/we-done-moved/
 image: /img/boxes.jpg
-categories:
+tags:
   - Nerd
 ---
 

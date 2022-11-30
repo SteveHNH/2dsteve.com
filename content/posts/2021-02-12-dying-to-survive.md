@@ -6,9 +6,9 @@ title: Dying to Survive
 type: post
 url: /2021/02/12/dying-to-survive/
 image: /img/window.jpg
-#categories:
+#tags:
 #LIST: books,code,comics,everything,fatherhood,gadgets,games,internet,life,movies,music,nerd,podcasting,politics,random,science,tech,tv,video,work,writing
-categories:
+tags:
   - life
 ---
 

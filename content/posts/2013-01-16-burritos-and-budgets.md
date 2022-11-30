@@ -5,7 +5,7 @@ draft: false
 title: Burritos and Budgets
 type: post
 url: /2013/01/15/burritos-and-budgets/
-categories:
+tags:
 - Life
 - Tech
 ---

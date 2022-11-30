@@ -5,7 +5,7 @@ draft: false
 title: The Final Frontier
 type: post
 url: /2018/02/07/the-final-frontier/
-categories:
+tags:
 - Science
 ---
 

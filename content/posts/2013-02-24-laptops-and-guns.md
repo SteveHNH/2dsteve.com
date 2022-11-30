@@ -5,7 +5,7 @@ draft: false
 title: Laptops and Guns
 type: post
 url: /2013/02/23/laptops-and-guns/
-categories:
+tags:
 - Life
 - Tech
 ---

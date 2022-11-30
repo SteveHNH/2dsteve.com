@@ -6,7 +6,7 @@ title: Adventure Games are Not Dead
 type: post
 url: /2022/10/03/adventure-games-are-not-dead/
 image: /img/monkey-island.png
-categories: 
+tags: 
 - games
 #LIST: books,code,comics,everything,fatherhood,gadgets,games,internet,life,movies,music,nerd,podcasting,politics,random,science,tech,tv,video,work,writing
 ---

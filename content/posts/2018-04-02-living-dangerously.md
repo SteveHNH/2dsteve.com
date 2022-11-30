@@ -5,7 +5,7 @@ draft: false
 title: Living Dangerously
 type: post
 url: /2018/04/02/living-dangerously/
-categories:
+tags:
 - Tech
 post_format:
 - Aside

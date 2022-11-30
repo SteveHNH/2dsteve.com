@@ -5,7 +5,7 @@ draft: false
 title: Back Porch Coffee
 type: post
 url: /2013/06/19/back-porch-coffee/
-categories:
+tags:
 - Life
 ---
 

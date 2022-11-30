@@ -5,7 +5,7 @@ draft: false
 title: Scaring Myself
 type: post
 url: /2007/07/29/scaring-myself/
-categories:
+tags:
 - Life
 - podcasting
 ---

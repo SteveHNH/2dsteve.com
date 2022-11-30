@@ -5,7 +5,7 @@ draft: false
 title: Life Modification
 type: post
 url: /2010/07/11/life-modification/
-categories:
+tags:
 - Life
 ---
 

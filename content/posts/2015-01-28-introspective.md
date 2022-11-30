@@ -5,7 +5,7 @@ draft: false
 title: Introspective
 type: post
 url: /2015/01/27/introspective/
-categories:
+tags:
 - Life
 ---
 

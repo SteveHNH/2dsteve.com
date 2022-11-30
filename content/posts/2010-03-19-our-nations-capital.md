@@ -5,7 +5,7 @@ draft: false
 title: Our Nation's Capital
 type: post
 url: /2010/03/18/our-nations-capital/
-categories:
+tags:
 - Life
 tags:
 - travel

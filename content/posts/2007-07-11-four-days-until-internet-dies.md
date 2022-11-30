@@ -5,7 +5,7 @@ draft: false
 title: Four Days Until Internet Dies
 type: post
 url: /2007/07/11/four-days-until-internet-dies/
-categories:
+tags:
 - Everything
 - Tech
 ---

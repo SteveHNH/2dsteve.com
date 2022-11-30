@@ -5,7 +5,7 @@ draft: false
 title: The Walking Dead
 type: post
 url: /2008/02/10/the-walking-dead/
-categories:
+tags:
 - Comics
 tags:
 - Comics

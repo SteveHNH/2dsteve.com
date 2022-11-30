@@ -5,7 +5,7 @@ draft: false
 title: Challenges
 type: post
 url: /2007/10/21/challenges/
-categories:
+tags:
 - Life
 - podcasting
 ---

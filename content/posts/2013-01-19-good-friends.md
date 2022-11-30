@@ -5,7 +5,7 @@ draft: false
 title: Good Friends
 type: post
 url: /2013/01/19/good-friends/
-categories:
+tags:
 - Life
 post_format:
 - Status

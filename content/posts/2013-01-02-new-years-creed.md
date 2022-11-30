@@ -5,7 +5,7 @@ draft: false
 title: New Year's Creed
 type: post
 url: /2013/01/01/new-years-creed/
-categories:
+tags:
 - Games
 - Life
 ---

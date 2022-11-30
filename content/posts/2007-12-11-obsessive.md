@@ -5,7 +5,7 @@ draft: false
 title: Obsessive
 type: post
 url: /2007/12/10/obsessive/
-categories:
+tags:
 - Internet
 - Life
 ---

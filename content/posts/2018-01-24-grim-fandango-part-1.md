@@ -5,7 +5,7 @@ draft: false
 title: Grim Fandango - Part 1
 type: post
 url: /2018/01/24/grim-fandango-part-1/
-categories:
+tags:
 - Games
 ---
 

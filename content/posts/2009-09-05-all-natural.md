@@ -5,7 +5,7 @@ draft: false
 title: All Natural
 type: post
 url: /2009/09/05/all-natural/
-categories:
+tags:
 - Life
 tags:
 - Beckley

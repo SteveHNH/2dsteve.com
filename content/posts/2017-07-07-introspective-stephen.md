@@ -5,7 +5,7 @@ draft: false
 title: Introspective Stephen
 type: post
 url: /2017/07/07/introspective-stephen/
-categories:
+tags:
 - Life
 ---
 

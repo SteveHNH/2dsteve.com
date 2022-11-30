@@ -5,7 +5,7 @@ draft: false
 title: Quality Wordsmithing
 type: post
 url: /2018/01/05/quality-wordsmithing/
-categories:
+tags:
 - Writing
 ---
 

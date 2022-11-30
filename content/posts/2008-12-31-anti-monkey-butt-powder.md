@@ -5,7 +5,7 @@ draft: false
 title: Anti-Monkey Butt Powder
 type: post
 url: /2008/12/30/anti-monkey-butt-powder/
-categories:
+tags:
 - Life
 ---
 

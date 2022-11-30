@@ -5,7 +5,7 @@ draft: false
 title: Six Pounds
 type: post
 url: /2018/01/29/six-pounds/
-categories:
+tags:
 - Life
 post_format:
 - Aside

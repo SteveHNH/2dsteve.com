@@ -5,7 +5,7 @@ draft: false
 title: What the Crap!?
 type: post
 url: /2010/02/03/what-the-crap/
-categories:
+tags:
 - Life
 tags:
 - dragoncon

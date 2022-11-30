@@ -5,7 +5,7 @@ draft: false
 title: When You Wanna Go Wee!
 type: post
 url: /2009/01/10/when-you-wanna-go-wee/
-categories:
+tags:
 - Life
 tags:
 - snowboarding

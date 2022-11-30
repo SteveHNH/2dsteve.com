@@ -5,7 +5,7 @@ draft: false
 title: Virginia is for Suckers Pt 1
 type: post
 url: /2013/01/21/virginia-is-for-suckers-pt-1/
-categories:
+tags:
 - Life
 ---
 

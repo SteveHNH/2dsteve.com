@@ -5,7 +5,7 @@ draft: false
 title: Bad News...Twice!
 type: post
 url: /2008/03/05/bad-newstwice/
-categories:
+tags:
 - Games
 - Life
 tags:

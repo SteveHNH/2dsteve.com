@@ -5,7 +5,7 @@ draft: false
 title: 'The Reading List: Robin'
 type: post
 url: /2018/07/10/the-reading-list-robin/
-categories:
+tags:
 - Books
 tags:
 - reading list

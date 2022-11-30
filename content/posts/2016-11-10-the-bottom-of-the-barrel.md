@@ -5,7 +5,7 @@ draft: false
 title: The Bottom of the Barrel
 type: post
 url: /2016/11/10/the-bottom-of-the-barrel/
-categories:
+tags:
 - Life
 ---
 

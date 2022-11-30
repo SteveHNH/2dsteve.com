@@ -5,7 +5,7 @@ draft: false
 title: The Greatest Show on Earth
 type: post
 url: /2009/01/13/the-greatest-show-on-earth/
-categories:
+tags:
 - podcasting
 ---
 

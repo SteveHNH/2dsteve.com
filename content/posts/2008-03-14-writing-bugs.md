@@ -5,7 +5,7 @@ draft: false
 title: Writing Bugs
 type: post
 url: /2008/03/13/writing-bugs/
-categories:
+tags:
 - Life
 - Movies
 tags:

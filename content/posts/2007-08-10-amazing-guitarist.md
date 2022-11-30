@@ -5,7 +5,7 @@ draft: false
 title: Amazing Guitarist
 type: post
 url: /2007/08/09/amazing-guitarist/
-categories:
+tags:
 - Music
 ---
 

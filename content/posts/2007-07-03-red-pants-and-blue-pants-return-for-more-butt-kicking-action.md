@@ -5,7 +5,7 @@ draft: false
 title: Red Pants and Blue Pants return for more butt kicking action!
 type: post
 url: /2007/07/02/red-pants-and-blue-pants-return-for-more-butt-kicking-action/
-categories:
+tags:
 - Games
 ---
 

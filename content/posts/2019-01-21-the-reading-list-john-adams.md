@@ -5,7 +5,7 @@ draft: false
 title: 'The Reading List: John Adams'
 type: post
 url: /2019/01/21/the-reading-list-john-adams/
-categories:
+tags:
 - Books
 tags:
 - reading list

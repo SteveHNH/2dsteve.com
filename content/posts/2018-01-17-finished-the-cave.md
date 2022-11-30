@@ -5,7 +5,7 @@ draft: false
 title: Finished The Cave
 type: post
 url: /2018/01/17/finished-the-cave/
-categories:
+tags:
 - Games
 ---
 

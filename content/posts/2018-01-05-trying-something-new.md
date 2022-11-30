@@ -5,7 +5,7 @@ draft: false
 title: Trying Something New
 type: post
 url: /2018/01/05/trying-something-new/
-categories:
+tags:
 - Life
 ---
 

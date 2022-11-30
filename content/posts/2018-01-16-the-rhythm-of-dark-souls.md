@@ -5,7 +5,7 @@ draft: false
 title: The Rhythm of Dark Souls
 type: post
 url: /2018/01/16/the-rhythm-of-dark-souls/
-categories:
+tags:
 - Games
 ---
 

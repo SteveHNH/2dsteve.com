@@ -5,7 +5,7 @@ draft: false
 title: Holy Crap, It's Midnight!
 type: post
 url: /2013/01/08/holy-crap-its-midnight/
-categories:
+tags:
 - Life
 ---
 

@@ -6,9 +6,9 @@ title: Freewriting
 type: post
 url: /2021/09/14/freewriting/
 #image: /img/some_featured_image.jpg
-#categories:
+#tags:
 #LIST: books,code,comics,everything,fatherhood,gadgets,games,internet,life,movies,music,nerd,podcasting,politics,random,science,tech,tv,video,work,writing
-categories:
+tags:
 - writing
 ---
 

@@ -5,7 +5,7 @@ draft: false
 title: Post Secret
 type: post
 url: /2007/08/14/post-secret/
-categories:
+tags:
 - Internet
 - Life
 ---

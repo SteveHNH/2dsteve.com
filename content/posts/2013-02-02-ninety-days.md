@@ -5,7 +5,7 @@ draft: false
 title: Ninety Days
 type: post
 url: /2013/02/01/ninety-days/
-categories:
+tags:
 - Life
 - Work
 ---

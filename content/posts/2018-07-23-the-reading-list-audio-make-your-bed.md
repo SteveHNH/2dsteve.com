@@ -5,7 +5,7 @@ draft: false
 title: 'The Reading List (Audio): Make Your Bed'
 type: post
 url: /2018/07/23/the-reading-list-audio-make-your-bed/
-categories:
+tags:
 - Books
 tags:
 - reading list

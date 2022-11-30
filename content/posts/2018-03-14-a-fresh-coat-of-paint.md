@@ -5,7 +5,7 @@ draft: false
 title: A Fresh Coat of Paint
 type: post
 url: /2018/03/14/a-fresh-coat-of-paint/
-categories:
+tags:
 - Life
 ---
 

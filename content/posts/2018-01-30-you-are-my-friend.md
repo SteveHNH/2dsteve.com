@@ -5,7 +5,7 @@ draft: false
 title: You Are My Friend
 type: post
 url: /2018/01/30/you-are-my-friend/
-categories:
+tags:
 - Movies
 ---
 

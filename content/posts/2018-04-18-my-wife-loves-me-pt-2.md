@@ -5,7 +5,7 @@ draft: false
 title: My Wife Loves Me Pt 2
 type: post
 url: /2018/04/18/my-wife-loves-me-pt-2/
-categories:
+tags:
 - Life
 - Movies
 ---

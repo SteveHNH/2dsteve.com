@@ -5,7 +5,7 @@ draft: false
 title: Django Was Off The Chain!
 type: post
 url: /2013/01/07/django-was-off-the-chain/
-categories:
+tags:
 - Movies
 ---
 

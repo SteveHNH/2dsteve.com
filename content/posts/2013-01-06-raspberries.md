@@ -5,7 +5,7 @@ draft: false
 title: Raspberries
 type: post
 url: /2013/01/06/raspberries/
-categories:
+tags:
 - Life
 - Tech
 ---

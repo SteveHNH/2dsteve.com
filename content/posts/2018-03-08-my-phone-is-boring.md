@@ -5,7 +5,7 @@ draft: false
 title: My Phone is Boring
 type: post
 url: /2018/03/08/my-phone-is-boring/
-categories:
+tags:
 - Life
 ---
 

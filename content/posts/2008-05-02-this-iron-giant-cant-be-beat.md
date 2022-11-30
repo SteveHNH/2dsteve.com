@@ -5,7 +5,7 @@ draft: false
 title: This Iron Giant Can't Be Beat
 type: post
 url: /2008/05/01/this-iron-giant-cant-be-beat/
-categories:
+tags:
 - Movies
 tags:
 - iron man

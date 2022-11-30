@@ -5,7 +5,7 @@ draft: false
 title: Internet Junk
 type: post
 url: /2010/02/06/internet-junk/
-categories:
+tags:
 - Internet
 tags:
 - Internet

@@ -6,9 +6,9 @@ title: The Struggle
 type: post
 url: /2021/02/23/the-struggle/
 image: /img/johannes-plenio-2QUvkQTBh5s-unsplash.jpg
-#categories:
+#tags:
 #LIST: books,code,comics,everything,fatherhood,gadgets,games,internet,life,movies,music,nerd,podcasting,politics,random,science,tech,tv,video,work,writing
-categories:
+tags:
   - life
 ---
 

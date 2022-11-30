@@ -5,7 +5,7 @@ draft: false
 title: Minimalist
 type: post
 url: /2008/12/21/minimalist/
-categories:
+tags:
 - Life
 ---
 

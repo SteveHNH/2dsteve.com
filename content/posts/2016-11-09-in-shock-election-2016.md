@@ -5,7 +5,7 @@ draft: false
 title: In Shock - Election 2016
 type: post
 url: /2016/11/09/in-shock-election-2016/
-categories:
+tags:
 - Life
 tags:
 - election

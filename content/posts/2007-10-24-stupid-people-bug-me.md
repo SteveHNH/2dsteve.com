@@ -5,7 +5,7 @@ draft: false
 title: Stupid People Bug Me
 type: post
 url: /2007/10/23/stupid-people-bug-me/
-categories:
+tags:
 - Books
 - Life
 ---

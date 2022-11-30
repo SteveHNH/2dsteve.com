@@ -5,7 +5,7 @@ draft: false
 title: Rocketbook
 type: post
 url: /2018/01/12/rocketbook/
-categories:
+tags:
 - Life
 - Writing
 ---

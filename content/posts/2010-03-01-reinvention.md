@@ -5,7 +5,7 @@ draft: false
 title: Reinvention
 type: post
 url: /2010/02/28/reinvention/
-categories:
+tags:
 - Life
 tags:
 - clothes

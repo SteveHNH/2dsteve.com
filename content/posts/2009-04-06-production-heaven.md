@@ -5,7 +5,7 @@ draft: false
 title: Production Heaven
 type: post
 url: /2009/04/06/production-heaven/
-categories:
+tags:
 - podcasting
 - Tech
 tags:

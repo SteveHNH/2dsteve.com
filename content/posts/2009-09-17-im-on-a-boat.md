@@ -5,7 +5,7 @@ draft: false
 title: I'm On A Boat
 type: post
 url: /2009/09/16/im-on-a-boat/
-categories:
+tags:
 - Gadgets
 tags:
 - Gadgets

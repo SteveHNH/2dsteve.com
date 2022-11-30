@@ -5,7 +5,7 @@ draft: false
 title: Big Gaps Are No Fun
 type: post
 url: /2009/08/29/big-gaps-are-no-fun/
-categories:
+tags:
 - Life
 tags:
 - twitter

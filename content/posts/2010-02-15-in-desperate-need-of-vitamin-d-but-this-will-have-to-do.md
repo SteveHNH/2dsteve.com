@@ -5,7 +5,7 @@ draft: false
 title: In Desperate Need of Vitamin D, But This Will Have To Do
 type: post
 url: /2010/02/14/in-desperate-need-of-vitamin-d-but-this-will-have-to-do/
-categories:
+tags:
 - Life
 - Music
 tags:

@@ -5,7 +5,7 @@ draft: false
 title: Going Home!
 type: post
 url: /2009/01/11/going-home/
-categories:
+tags:
 - Life
 tags:
 - snowboarding

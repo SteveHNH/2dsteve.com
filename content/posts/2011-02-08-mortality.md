@@ -5,7 +5,7 @@ draft: false
 title: Mortality
 type: post
 url: /2011/02/08/mortality/
-categories:
+tags:
 - Life
 ---
 

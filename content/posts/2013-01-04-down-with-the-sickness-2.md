@@ -5,7 +5,7 @@ draft: false
 title: Down with the Sickness
 type: post
 url: /2013/01/03/down-with-the-sickness-2/
-categories:
+tags:
 - Life
 - Tech
 ---

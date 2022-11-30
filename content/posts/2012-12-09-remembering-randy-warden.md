@@ -5,7 +5,7 @@ draft: false
 title: Remembering Randy Warden
 type: post
 url: /2012/12/09/remembering-randy-warden/
-categories:
+tags:
 - Life
 ---
 

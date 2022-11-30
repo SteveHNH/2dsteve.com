@@ -5,7 +5,7 @@ draft: false
 title: Xbox, How I Missed Thee
 type: post
 url: /2010/02/15/xbox-how-i-missed-thee/
-categories:
+tags:
 - Games
 tags:
 - xbox

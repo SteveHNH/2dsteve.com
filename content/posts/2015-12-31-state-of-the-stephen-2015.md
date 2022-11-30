@@ -5,7 +5,7 @@ draft: false
 title: State of the Stephen - 2015
 type: post
 url: /2015/12/31/state-of-the-stephen-2015/
-categories:
+tags:
 - Life
 ---
 

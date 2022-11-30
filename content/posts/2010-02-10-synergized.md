@@ -5,7 +5,7 @@ draft: false
 title: Synergized!
 type: post
 url: /2010/02/10/synergized/
-categories:
+tags:
 - Internet
 tags:
 - Internet

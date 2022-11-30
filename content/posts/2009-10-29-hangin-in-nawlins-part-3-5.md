@@ -5,7 +5,7 @@ draft: false
 title: Hangin' In Nawlins - Part 3
 type: post
 url: /2009/10/28/hangin-in-nawlins-part-3-5/
-categories:
+tags:
 - Life
 tags:
 - travel

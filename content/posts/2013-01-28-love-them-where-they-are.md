@@ -5,7 +5,7 @@ draft: false
 title: Love Them Where They Are
 type: post
 url: /2013/01/27/love-them-where-they-are/
-categories:
+tags:
 - Life
 ---
 

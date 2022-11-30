@@ -5,7 +5,7 @@ draft: false
 title: Tony Horton is Evil
 type: post
 url: /2010/02/08/tony-horton-is-evil/
-categories:
+tags:
 - Life
 tags:
 - exercise

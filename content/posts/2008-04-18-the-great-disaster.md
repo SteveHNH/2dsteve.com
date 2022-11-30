@@ -5,7 +5,7 @@ draft: false
 title: The Great Disaster
 type: post
 url: /2008/04/17/the-great-disaster/
-categories:
+tags:
 - Life
 - Music
 tags:

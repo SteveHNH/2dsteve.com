@@ -5,7 +5,7 @@ draft: false
 title: Of Star Wars and Skyrim
 type: post
 url: /2013/01/29/of-star-wars-and-skyrim/
-categories:
+tags:
 - Games
 - Internet
 - Movies

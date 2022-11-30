@@ -5,7 +5,7 @@ draft: false
 title: That Felt Good
 type: post
 url: /2013/01/31/that-felt-good/
-categories:
+tags:
 - Internet
 - Life
 - podcasting

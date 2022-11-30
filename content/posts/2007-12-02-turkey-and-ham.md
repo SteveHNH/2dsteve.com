@@ -5,7 +5,7 @@ draft: false
 title: Turkey and Ham
 type: post
 url: /2007/12/01/turkey-and-ham/
-categories:
+tags:
 - Life
 ---
 

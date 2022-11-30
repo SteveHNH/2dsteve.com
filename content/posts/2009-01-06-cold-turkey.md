@@ -5,7 +5,7 @@ draft: false
 title: Cold Turkey
 type: post
 url: /2009/01/05/cold-turkey/
-categories:
+tags:
 - Life
 tags:
 - exercise

@@ -5,7 +5,7 @@ draft: false
 title: 'The Reading List: Not a Fan'
 type: post
 url: /2019/04/07/the-reading-list-not-a-fan/
-categories:
+tags:
 - Books
 tags:
 - reading list

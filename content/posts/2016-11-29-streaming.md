@@ -5,7 +5,7 @@ draft: false
 title: Streaming!
 type: post
 url: /2016/11/29/streaming/
-categories:
+tags:
 - Games
 - Life
 ---

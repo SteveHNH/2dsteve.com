@@ -5,7 +5,7 @@ draft: false
 title: The Wise Man's Fear
 type: post
 url: /2013/02/16/the-wise-mans-fear/
-categories:
+tags:
 - Life
 ---
 

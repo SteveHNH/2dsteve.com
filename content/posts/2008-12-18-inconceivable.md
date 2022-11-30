@@ -5,7 +5,7 @@ draft: false
 title: Inconceivable!
 type: post
 url: /2008/12/17/inconceivable/
-categories:
+tags:
 - Life
 tags:
 - holidays

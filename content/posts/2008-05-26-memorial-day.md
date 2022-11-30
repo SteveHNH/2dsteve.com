@@ -5,7 +5,7 @@ draft: false
 title: Memorial Day!
 type: post
 url: /2008/05/26/memorial-day/
-categories:
+tags:
 - Life
 - Movies
 tags:

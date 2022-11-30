@@ -5,7 +5,7 @@ draft: false
 title: Wounded Knee
 type: post
 url: /2016/07/27/wounded-knee/
-categories:
+tags:
 - Life
 ---
 

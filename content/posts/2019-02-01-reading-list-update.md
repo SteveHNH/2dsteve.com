@@ -5,7 +5,7 @@ draft: false
 title: Reading List Update
 type: post
 url: /2019/02/01/reading-list-update/
-categories:
+tags:
 - Books
 tags:
 - reading list

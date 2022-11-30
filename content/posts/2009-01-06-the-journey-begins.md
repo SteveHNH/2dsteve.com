@@ -5,7 +5,7 @@ draft: false
 title: The Journey Begins...
 type: post
 url: /2009/01/06/the-journey-begins/
-categories:
+tags:
 - Life
 - video
 tags:

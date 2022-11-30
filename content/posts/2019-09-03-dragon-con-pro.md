@@ -5,7 +5,7 @@ draft: false
 title: Dragon Con Pro
 type: post
 url: /2019/09/03/dragon-con-pro/
-categories:
+tags:
 - Life
 - podcasting
 ---

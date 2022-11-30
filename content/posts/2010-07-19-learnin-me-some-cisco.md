@@ -5,7 +5,7 @@ draft: false
 title: Learnin' Me Some Cisco
 type: post
 url: /2010/07/18/learnin-me-some-cisco/
-categories:
+tags:
 - Life
 ---
 

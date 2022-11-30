@@ -5,7 +5,7 @@ draft: false
 title: Last Day With Lando
 type: post
 url: /2009/01/02/last-day-with-lando/
-categories:
+tags:
 - Life
 tags:
 - Lando

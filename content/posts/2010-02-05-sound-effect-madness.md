@@ -5,7 +5,7 @@ draft: false
 title: Sound Effect Madness!
 type: post
 url: /2010/02/04/sound-effect-madness/
-categories:
+tags:
 - podcasting
 tags:
 - H&amp;H

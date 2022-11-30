@@ -5,7 +5,7 @@ draft: false
 title: Like the Seal Song Goes
 type: post
 url: /2008/12/23/like-the-seal-song-goes/
-categories:
+tags:
 - Life
 - Tech
 ---

@@ -5,7 +5,7 @@ draft: false
 title: Broken Addiction
 type: post
 url: /2010/02/11/broken-addiction/
-categories:
+tags:
 - Games
 - Life
 tags:

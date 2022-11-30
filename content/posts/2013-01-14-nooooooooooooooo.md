@@ -5,7 +5,7 @@ draft: false
 title: Nooooooooooooooo
 type: post
 url: /2013/01/13/nooooooooooooooo/
-categories:
+tags:
 - Life
 ---
 

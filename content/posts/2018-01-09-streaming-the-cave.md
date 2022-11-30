@@ -5,7 +5,7 @@ draft: false
 title: Streaming The Cave
 type: post
 url: /2018/01/09/streaming-the-cave/
-categories:
+tags:
 - Games
 ---
 

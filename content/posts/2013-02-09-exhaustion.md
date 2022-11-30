@@ -5,7 +5,7 @@ draft: false
 title: Exhaustion
 type: post
 url: /2013/02/08/exhaustion/
-categories:
+tags:
 - Life
 ---
 

@@ -5,7 +5,7 @@ draft: false
 title: I Made A List
 type: post
 url: /2012/01/31/i-made-a-list/
-categories:
+tags:
 - Life
 ---
 

@@ -6,9 +6,9 @@ title: Short posts
 type: post
 url: /2021/01/24/short-posts/
 #image: /img/some_featured_image.jpg
-#categories:
+#tags:
 #LIST: books,code,comics,everything,fatherhood,gadgets,games,internet,life,movies,music,Nerd,podcasting,politics,random,science,tech,tv,video,work,writing
-categories:
+tags:
   - Nerd
 ---
 

@@ -5,7 +5,7 @@ draft: false
 title: Free Movie with Batman Trailer!
 type: post
 url: /2007/12/15/free-movie-with-batman-trailer/
-categories:
+tags:
 - Movies
 ---
 

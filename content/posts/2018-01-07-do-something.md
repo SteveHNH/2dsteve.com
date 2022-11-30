@@ -5,7 +5,7 @@ draft: false
 title: Do Something
 type: post
 url: /2018/01/07/do-something/
-categories:
+tags:
 - Life
 ---
 

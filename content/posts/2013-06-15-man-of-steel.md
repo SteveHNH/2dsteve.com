@@ -5,7 +5,7 @@ draft: false
 title: Man of Steel
 type: post
 url: /2013/06/15/man-of-steel/
-categories:
+tags:
 - Movies
 ---
 

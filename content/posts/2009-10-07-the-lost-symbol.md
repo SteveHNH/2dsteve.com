@@ -5,7 +5,7 @@ draft: false
 title: The Lost Symbol
 type: post
 url: /2009/10/06/the-lost-symbol/
-categories:
+tags:
 - Books
 tags:
 - book review

@@ -5,7 +5,7 @@ draft: false
 title: Study Buddy
 type: post
 url: /2012/11/15/study-buddy/
-categories:
+tags:
 - Life
 ---
 

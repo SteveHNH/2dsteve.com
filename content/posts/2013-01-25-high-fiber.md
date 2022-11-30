@@ -5,7 +5,7 @@ draft: false
 title: High Fiber
 type: post
 url: /2013/01/24/high-fiber/
-categories:
+tags:
 - Internet
 - Life
 - podcasting

@@ -5,7 +5,7 @@ draft: false
 title: 'The Reading List: Console Wars'
 type: post
 url: /2018/08/13/the-reading-list-console-wars/
-categories:
+tags:
 - Books
 tags:
 - reading list

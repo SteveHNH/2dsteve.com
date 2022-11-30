@@ -5,7 +5,7 @@ draft: false
 title: Building Myself
 type: post
 url: /2018/06/27/building-myself/
-categories:
+tags:
 - Life
 ---
 

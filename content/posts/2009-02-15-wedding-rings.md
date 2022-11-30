@@ -5,7 +5,7 @@ draft: false
 title: Wedding Rings!
 type: post
 url: /2009/02/14/wedding-rings/
-categories:
+tags:
 - video
 tags:
 - wedding

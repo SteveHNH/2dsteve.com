@@ -5,7 +5,7 @@ draft: false
 title: 2012 - Apocalypse Not
 type: post
 url: /2012/12/31/2012-apocalypse-not/
-categories:
+tags:
 - Life
 ---
 

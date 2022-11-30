@@ -5,7 +5,7 @@ draft: false
 title: Like A Cowboy
 type: post
 url: /2008/02/19/like-a-cowboy/
-categories:
+tags:
 - Life
 tags:
 - cowboy

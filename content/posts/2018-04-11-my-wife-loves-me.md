@@ -5,7 +5,7 @@ draft: false
 title: My Wife Loves Me
 type: post
 url: /2018/04/11/my-wife-loves-me/
-categories:
+tags:
 - Life
 ---
 

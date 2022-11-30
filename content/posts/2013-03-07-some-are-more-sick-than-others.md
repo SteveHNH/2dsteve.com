@@ -5,7 +5,7 @@ draft: false
 title: Some Are More Sick Than Others
 type: post
 url: /2013/03/06/some-are-more-sick-than-others/
-categories:
+tags:
 - Life
 - Tech
 ---

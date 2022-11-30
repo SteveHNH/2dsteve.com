@@ -5,7 +5,7 @@ draft: false
 title: Red Dead Redemption II
 type: post
 url: /2019/02/02/red-dead-redemption-ii/
-categories:
+tags:
 - Games
 ---
 

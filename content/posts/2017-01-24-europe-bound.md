@@ -5,7 +5,7 @@ draft: false
 title: Europe Bound!
 type: post
 url: /2017/01/24/europe-bound/
-categories:
+tags:
 - Life
 ---
 

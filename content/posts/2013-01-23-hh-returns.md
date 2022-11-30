@@ -5,7 +5,7 @@ draft: false
 title: H&H Returns
 type: post
 url: /2013/01/22/hh-returns/
-categories:
+tags:
 - Internet
 - podcasting
 ---

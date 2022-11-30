@@ -5,7 +5,7 @@ draft: false
 title: 'First Anniversary: Gatlinburg, TN'
 type: post
 url: /2011/05/19/first-anniversary-gatlinburg-tn/
-categories:
+tags:
 - Life
 ---
 

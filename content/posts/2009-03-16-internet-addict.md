@@ -5,7 +5,7 @@ draft: false
 title: Internet Addict
 type: post
 url: /2009/03/16/internet-addict/
-categories:
+tags:
 - Tech
 ---
 

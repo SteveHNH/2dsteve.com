@@ -5,7 +5,7 @@ draft: false
 title: H&H - The BLoG!
 type: post
 url: /2008/01/18/hh-the-blog/
-categories:
+tags:
 - Internet
 - podcasting
 ---

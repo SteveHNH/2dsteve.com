@@ -5,7 +5,7 @@ draft: false
 title: Home Movies!
 type: post
 url: /2008/03/03/home-movies/
-categories:
+tags:
 - Life
 - Movies
 - Tech

@@ -5,7 +5,7 @@ draft: false
 title: Say Anything!
 type: post
 url: /2008/01/25/say-anything/
-categories:
+tags:
 - Music
 tags:
 - bands

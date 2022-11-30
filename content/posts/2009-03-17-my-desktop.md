@@ -5,7 +5,7 @@ draft: false
 title: My Desktop
 type: post
 url: /2009/03/16/my-desktop/
-categories:
+tags:
 - Random
 - Tech
 ---

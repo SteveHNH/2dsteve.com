@@ -5,7 +5,7 @@ draft: false
 title: Prophetic Dream
 type: post
 url: /2007/08/15/prophetic-dream/
-categories:
+tags:
 - Life
 ---
 

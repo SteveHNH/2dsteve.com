@@ -5,7 +5,7 @@ draft: false
 title: I So Envy Superman
 type: post
 url: /2008/12/25/i-so-envy-superman/
-categories:
+tags:
 - Life
 tags:
 - holidays
