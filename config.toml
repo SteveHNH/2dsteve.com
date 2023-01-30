@@ -52,7 +52,7 @@ summarylength = 70
   [[menu.icons]]
   identifier = "mastodon"
   name = "Mastadon"
-  url = "https://mastodon.social/@stevehnh"
+  url = "https://fosstodon.org/@2DSteve"
   weight = 10
 
   [[menu.icons]]
