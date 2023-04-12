@@ -5,7 +5,7 @@ from datetime import date
 from time import strftime
 
 parser = argparse.ArgumentParser()
-parser.add_argument('-t', '--title')
+parser.add_argument('-t', '--title', required=True, help="Title of the post")
 args = parser.parse_args()
 
 def main():
