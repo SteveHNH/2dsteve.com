@@ -1,10 +1,10 @@
 ---
-author: 2dsteve_ty3fxq
-date: 2018-03-13 19:00:10+00:00
+author: Stephen Adams 
+date: '2018-03-13 19:00:10+00:00'
 draft: false
 title: How I Work
 type: page
-url: /how-i-work/
+url: "/how-i-work/"
 ---
 
 One of my favorite posts that I see in personal blogs and elsewhere is the "How I Work" post. The posts where someone expresses the tools they use, the software they can't live without, and the music that is blasting into their ears while they create. I've always thought my stuff wasn't cool enough to even bother posting about, but I'm also sure that these people think the same thing.
