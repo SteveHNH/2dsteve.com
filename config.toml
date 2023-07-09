@@ -11,10 +11,10 @@ disqusShortname = "2dsteve"
 [params]
 author = "Stephen Adams"
 description = "It's About The Journey"
-profilePicture = "/img/profile_pic.jpg"
+profilePicture = "/img/StephEmote.png"
 mainSections = ["post"]
 title = "Stephen Adams"
-copyright = "2004-2022"
+copyright = "2004-2023"
 darkMode = true
 
 # Syntax highlighting
