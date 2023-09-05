@@ -43,9 +43,9 @@ pygmentsCodefencesGuessSyntax = true
   url = "/how-i-work/"
 
 [[params.socialIcons]]
-icon = "fab fa-twitter"
-name = "Twitter"
-url = "https://www.twitter.com/stevehnh"
+icon = "fab fa-mastodon"
+name = "Mastodon"
+url = "https://www.fosstodon.org/@2DSteve"
 
 [[params.socialIcons]]
 icon = "fab fa-github"
@@ -53,16 +53,12 @@ name = "Github"
 url = "https://www.github.com/stevehnh"
 
 [[params.socialIcons]]
-icon = "fab fa-instagram"
-name = "Instagram"
-url = "https://www.instagram.com/stevehnh"
+icon = "fab fa-discord"
+name = "Discord"
+url = "https://www.2dorks.net/discord"
 
 [[params.socialIcons]]
 icon = "fab fa-twitch"
 name = "Twitch"
 url = "https://www.twitch.tv/2dorkstv"
 
-[[params.socialIcons]]
-icon = "fas fa-star"
-name = "CounterSocial"
-url = "https://counter.social/@SteveHNH"
