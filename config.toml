@@ -62,3 +62,8 @@ icon = "fab fa-twitch"
 name = "Twitch"
 url = "https://www.twitch.tv/2dorkstv"
 
+[[params.socialIcons]]
+icon = "fab fa-tiktok"
+name = "TikTok"
+url = "https://www.tiktok.com/@stevehnh"
+
