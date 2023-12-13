@@ -42,6 +42,12 @@ pygmentsCodefencesGuessSyntax = true
   identifier = "how-i-work"
   url = "/how-i-work/"
 
+  [[menu.main]]
+  name = "Life Rules"
+  weight = 400
+  identifier = "life-rules"
+  url = "/life-rules/"
+
 [[params.socialIcons]]
 icon = "fab fa-mastodon"
 name = "Mastodon"
