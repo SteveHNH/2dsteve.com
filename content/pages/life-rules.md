@@ -15,7 +15,7 @@ Again, these are *MY* life rules. They may not apply to you and you may not agre
 2. Never shop while drunk.
 3. Always tip 20% or more
 4. Measure twice, cut once
-5. Never wear pants with a stretchy waste band regularly
+5. Never wear pants with a stretchy waist band regularly
 6. Always dress respectably when you go out into the world. You never know who you'll run into
 7. Never treat with alcohol what you can treat with quiet time, honest conversation, or a cup of hot chocolate
 8. Deal with your problems as they arise. It's never convenient, and poor choices tend to rot over time. They don't get better
@@ -31,5 +31,6 @@ Again, these are *MY* life rules. They may not apply to you and you may not agre
 18. Never hire the roofing people that come around after a hail storm. Call up a reputable local roofer for help
 19. No one can transfer the love of an object to another person. If the thing means nothing to you, get rid of it. 
 20. Never ask a person what they did with the gift you gave them. After you give it, it ceases to exist in your mind.
-
+21. Try something a minimum of three times before writing it off.
+22. Be kind. For everyone is fighting a hard battle.
 
